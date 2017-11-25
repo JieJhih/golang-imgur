@@ -1,0 +1,10 @@
+auth:
+  client_id: "" # setup up your imgur cliend id
+
+server:
+  port: "8081" # default port run in 8081
+  read_timeout: 10
+  write_timeout: 10
+
+api:
+  upload_image: "/image/upload"
